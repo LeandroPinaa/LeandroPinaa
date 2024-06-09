@@ -4,7 +4,7 @@
 
 • I've done some pygame projects (using python) related to classic and new games so that I could develop my programming skills.
 
-• I'm currently studying competitive programming and mainly focusing in ICPC, I'm also a medalist in OBI (Brazilian Olympiad of Informatics).
+• I'm currently studying competitive programming and mainly focusing in ICPC, I'm also a medalist in OBI (Brazilian Olympiad of Informatics) and Maratona Mineira XI.
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lean.dropina/)
